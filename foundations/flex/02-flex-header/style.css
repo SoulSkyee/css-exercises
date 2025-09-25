@@ -31,8 +31,9 @@ a {
   align-items: center;
 }
 
-li {
+ul {
   display: flex;
   padding: 0;
-  margin: 10px;
+  margin: 0;
+  gap: 8px;
 }
